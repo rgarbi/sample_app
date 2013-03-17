@@ -1,8 +1,10 @@
 class StaticPagesController < ApplicationController
   def home
-    val = "Home!"
   end
 
   def help
+  end
+  
+  def about
   end
 end
